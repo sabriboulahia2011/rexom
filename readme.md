@@ -73,7 +73,7 @@ but if you using your computer soo follow this steps!
 
 1. make a new folder name it any thing
 2. press right click and chose `git bash here`
-3. then he well open a cmd for you type this command inside: `git clone https://github.com/DevelopersSupportAR/8Ticket.git`
+3. then he well open a cmd for you type this command inside: `git clone https://github.com/DevelopersSupportAR/rexom.git`
 
 well done you forked the project in your pc or fork it on replit
 
@@ -100,14 +100,14 @@ you well find thar thing like this:
 TOKEN="<The Bot Token Right Here(you will find it on discord developer portal)"
 ```
 
-if you using replit just go to `secrits` on right
+if you using replit just go to `secrets` on right
 and set `TOKEN` as a key
 then set `The Bot Token Right Here(you will find it on discord developer portal)` as a value
 
 
 #### Run The Project 🌀
 
-if you using replit `download the github repositorie` then extract the file and drag the `node_modules` folder to replit files
+if you using replit `download the github repository` then extract the file and drag the `node_modules` folder to replit files
 to edit `node_modules` files on replit (make sure you install all the packages you will need because you can't install any package after do that)
 now just wait a little alert from the website and press replace
 after that wait 5 seconds and press run

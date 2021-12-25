@@ -1,10 +1,10 @@
 {
     "activity": {
-        "name": "<The Bot Activity Name>",
-        "type": "<The Bot Activity Type>"
+        "name": "PLAYING",
+        "type": "dnd"
     },
-    "status": "<The Bot Status>",
+    "status": "+help",
 
-    "mainPrefix": "<The Bot Prefix>",
-    "mainLang": "<The Bot Lang>"
+    "mainPrefix": "+",
+    "mainLang": "ar"
 }
